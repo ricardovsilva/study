@@ -3,3 +3,4 @@ Até então eu estudei:
 Linguagem  | Branch
 ------------- | -------------
 Type Script  | TypeScript
+ |
