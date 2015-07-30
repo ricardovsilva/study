@@ -1,5 +1,10 @@
-Todo o conte˙do dos estudos feitos por mim est„o em outros branches.
-AtÈ ent„o eu estudei:
+Todo o conte√∫do dos estudos feitos por mim est√£o em outros branches.
+At√© ent√£o eu estudei:
 Linguagem | Branch
 --------- | ------
 Type Script | TypeScript
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
